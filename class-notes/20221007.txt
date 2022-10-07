@@ -1,0 +1,17 @@
+
+	Git		-	Version Control System
+	GitHub		-	Repository Hosting Service
+
+	Development Teams
+		- Share code to collaborate
+		- 
+
+
+	Factorial
+		- O(n)		V1	-	Production
+		- O(log n)	V2	-	Development
+		- O(log n)	V3	-	Development
+
+	2^3	=	 8
+
+	log 8	=	3

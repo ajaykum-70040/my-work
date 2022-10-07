@@ -1,0 +1,49 @@
+Loop	=	Repeat
+
+Programming
+
+	For (n to m)	-	Counting condition
+--------------------
+	While		-	Other types of condition
+	Do-While
+
+	Ajay\0	char[]
+
+	while(n != '\0')
+
+	for(initialization; condition; increment)
+	{
+		//statements;
+	}
+
+	while(condition)	//entry-controlled
+	{
+		//statements;
+	}
+
+	do
+	{
+
+	}
+	while(condition);	//exit-controlled
+
+	Unit testing	-	CUnit
+	System testing
+
+	JAM	-	Just A Minute
+			Home food vs Restaurant food
+
+	2^2	=	2-squared
+			3-cubed
+
+	Enter number: 2
+	Enter power: 4
+	2 raised to the power 4 is 16.
+
+	Enter number: 5
+	Enter power: 2
+	5-squared is 16.
+
+	Enter number: 5
+	Enter power: 3
+	3-cubed is 16.

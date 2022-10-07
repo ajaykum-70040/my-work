@@ -1,0 +1,56 @@
+
+	Problem Statement
+	Software Requirement Specification
+	Project Report
+
+	Roll (list) No
+	Reg No
+
+	Store, analysis and visualise
+	What-if analysis
+
+	IBM vs Microsoft vs Apple
+	Microsoft vs Apple
+	Google vs Facebook
+
+	30 minutes to 1 hour
+
+	Alan Turing	-	The imitation game	
+
+	Engima	-	Message 
+
+	General Problem Solver
+	Expert System
+
+	SQ3R Technique
+
+	Survey
+	Question
+	Read
+	Recite
+	Review
+
+	Types of reading
+	Speed reading
+
+	Dynamic Memory Allocation
+
+	Download
+	Upload
+	Sideload
+
+	Wifi
+	WiMax
+	NFC
+
+	HTML
+	DHTML	-	Dynamic HTML
+	
+	Using HTML we describe the structure of a web page.
+
+
+	Strings:
+	Sharpen your axe.
+		
+	
+	

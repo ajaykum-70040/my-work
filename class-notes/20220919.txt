@@ -1,0 +1,46 @@
+	
+	Hackerrank
+	Leetcode
+	Hackerearth
+
+	fflush()
+	getchar()
+
+	conio.h
+
+	Multiword string
+
+	Ajay Kumar
+	%s
+
+	ASCII chart
+
+	65-91
+	97-
+	
+	1. Speed
+	2. Accuracy
+	3. Diligency
+	4. Versatility
+	5. Storage
+	6. Communication
+
+	   Start
+	1. Read n
+	2. For i = 1 to 10
+	3. If: (n mod i = 0)
+	4. Print i
+	5. End of For
+	6. Stop
+
+
+	10 = 1, 2, 5, 10
+	
+	1000001
+
+	BCD	=	Binary Coded Decimal	(0-9)
+	ASCII	=	American National Standard Code for Information Interchange (128 characters)	
+			ASCII - 8 - 256 chars	(01000001)
+	Unicode
+
+	WAP to accept a number and find its factors.

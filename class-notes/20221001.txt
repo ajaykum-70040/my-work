@@ -1,0 +1,14 @@
+2-dimensional array
+
+Rollno	Name		English		Maths
+1	Md. Shabbi	65		72
+
+
+Website
+	School (including Enquiry Form)
+
+w3schools.com
+
+Paradigms: Principle
+
+delimiter	-	a character that limits something

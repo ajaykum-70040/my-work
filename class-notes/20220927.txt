@@ -1,0 +1,45 @@
+
+	Frameworks
+		Laravel - A web framework for artisans
+
+	WAP to accept 10 integer and sort them in ascending order.
+
+	int main()
+	{
+		
+	}
+
+	3! = 3 x 2 x 1 = 6
+	10!	
+
+	Array: An array is a collection of similar elements.
+
+	int a;
+	int a[10]
+
+	i = 10;
+	x = i++;	//x = 10; i = 11
+	x = ++i;	// x = i = 11
+
+
+86
+52
+35
+19
+2
+45
+15
+33
+76
+61
+
+Selection Sort
+
+Asymtotic Notation:
+	Big Oh
+	Big Theta
+	Big Omega	
+
+	O(1)	-	No loop
+	O(n)	-	No nested loop
+	O(n^2)
