@@ -1,5 +1,5 @@
 
-	Git		-	Version Control System
+	Git		-	(Distributed) Version Control System
 	GitHub		-	Repository Hosting Service
 
 	Development Teams
@@ -15,3 +15,14 @@
 	2^3	=	 8
 
 	log 8	=	3
+
+	Chip	-->	Digit	-->	Technology + Product Review + Games
+
+	Developer 2.0
+
+	Ready Player One
+
+	Linus Torvalds	-	Inventor of Linux and Git
+
+	Code Collaboration
+	
