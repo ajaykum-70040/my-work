@@ -1,0 +1,32 @@
+
+	1989	-	ANSI C
+
+	Endless OS
+
+	JDK 8.0		-	JDBC
+	
+	JDK 17 LTS
+	JDK 19
+
+	Z - Zee
+
+	CBZ	-	
+
+	Buffer	-	Temporary Memory used during data transfer between devices
+
+	- \n stays in the buffer
+	- flush the input buffer
+		-	fflush(stdin)
+		-	dummy getchar()
+		-	
+
+	Simplify
+	Simplism
+
+	WAP to accept an amount in figures and convert it into words.
+	1444	-	One Thousand Four Hundred Forty Four
+
+	
+	WAP to accept details of a candidate and display his resume.
+
+	

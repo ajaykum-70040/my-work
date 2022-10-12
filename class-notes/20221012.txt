@@ -1,0 +1,70 @@
+
+	Modules	- Elements
+
+	Paradigms
+		POP	-	Function/Procedure/Sub-Routine
+		OOP	-	Objects
+
+	Single Responsibility:
+		Program module should have a single responsibility.
+
+	A program is divided in functions.
+
+	Function: Function is self-contained block of code to carry out a defined
+		  task.
+
+	int sum(int a, int b)
+	{
+		return a + b;
+	}
+
+
+	Function Concept:
+		Function Declaration/Prototype
+		Function Definition
+		Function Call
+
+	YAGNI:	You aren't gonna need it.
+
+	Linear Search O(n)
+	Binary Search (Sorted) O(log n)
+
+	int[] binary_search(int a[], int status)
+	{
+		if(status == 1)
+		{
+			sort(a);
+		}
+
+		
+
+	}
+
+	DS
+	Linear
+		Array
+		Linked List
+		Stack
+		Queue
+	Non-Linear
+		Tree
+		Graph
+
+	Operations on DS
+		1. Traversal (Visiting each exactly once)
+		2. Insertion
+		3. Deletion
+		4. Sorting
+		5. Searching
+		6. Merging
+
+	realm
+	empty
+	enecdote
+	metaphor
+
+	ONLITS2204
+
+	Unit Testing
+
+	
